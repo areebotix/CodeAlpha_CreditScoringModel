@@ -168,7 +168,8 @@ Credit_Scoring_Model/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-```
+``NOTE
+SOME FILES ARE UNABLE TO UPLOAD DUE TO LARGE SIZE`
 
 ---
 
